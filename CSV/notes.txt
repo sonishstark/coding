@@ -1,0 +1,6 @@
+try create a csv list with a mockup data 20sets minimum
+cloumns based on 
+Name-empid-dob-desigantion-location 
+read the file from a particular location
+
+integer in loaction throws exception
